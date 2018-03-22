@@ -13,4 +13,4 @@ These simple scripts were created if you wish to add some extended options when 
 * If you wish to remove those options, simply launch `tools\portablegit-uninstall.cmd`
 
 ## License
-MIT license, see LICENSE.md for details.
+MIT license, see LICENSE.md for details. :smiley:
